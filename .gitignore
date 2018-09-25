@@ -1,0 +1,9 @@
+*.рус
+*.pyc
+*~
+__pycache__
+myvenv
+mevenv
+db.sqlite3
+/static
+.DS_Store
